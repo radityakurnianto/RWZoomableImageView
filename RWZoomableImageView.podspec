@@ -23,7 +23,7 @@ DESC
 
 s.homepage         = 'https://github.com/radityakurnianto/RWZoomableImageView'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-s.license      	   = "MIT"
+s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'radityakurnianto' => 'raditya.kurnianto@gmail.com' }
 s.source           = { :git => 'https://github.com/radityakurnianto/RWZoomableImageView.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
